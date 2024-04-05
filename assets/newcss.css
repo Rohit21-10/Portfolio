@@ -340,6 +340,14 @@ img {
   font-size: 1.25rem;
 }
 
+/*================= Dark Theme ===============*/
+body {
+  /* Apply dark theme styles by default */
+  background-color: var(--body-color);
+  color: var(--text-color);
+}
+
+
 /*================== Buttons ===================*/
 .button {
   display: inline-block;
